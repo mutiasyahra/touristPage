@@ -1,7 +1,3 @@
-/**
- * Improved Bottom Navbar - Local Assets Version (No Unsplash)
- */
-
 import React, { useState } from 'react';
 import {
   StatusBar,
@@ -77,7 +73,7 @@ function AppContent() {
             </TouchableOpacity>
           </View>
 
-          <Text style={styles.subTitle}>Recommendation in Bajo</Text>
+          <Text style={styles.subTitle}>Recommendation in Bali</Text>
 
           <ScrollView
             horizontal
